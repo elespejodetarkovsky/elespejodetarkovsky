@@ -1,4 +1,7 @@
-## Hi there 👋
+# Welcome to my GitHub profile
+
+## About me
+I'm Sebastian, backend developer. Sometimes devops and long-time linux user.
 
 <!--
 **elespejodetarkovsky/elespejodetarkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
